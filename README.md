@@ -28,6 +28,8 @@ Britta, a junior SQL developer, has been tasked with the following :
 
 5. An ERD is created to understand the database structure.
 
+![ERD](crowdfunding_db_relationships.png)
+
 6. Using the ERD and schema, tables are created and data loaded in them.
 
 7. SQL queries are written to generate a list of contacts for every live campaign so that an email can be sent to them to inform how much of the goal remains.
