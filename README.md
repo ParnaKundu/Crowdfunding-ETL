@@ -32,6 +32,6 @@ Britta, a junior SQL developer, has been tasked with the following :
 
 6. Using the ERD and schema, tables are created and data loaded in them.
 
-7. SQL queries are written to generate a list of contacts for every live campaign so that an email can be sent to them to inform how much of the goal remains.
+7. [SQL](crowdfunding_SQL_Analysis.sql) queries are written to generate a list of contacts for every live campaign so that an email can be sent to them to inform how much of the goal remains.
 
-8. Similar SQL query is written to generate a list of backers for every live campaign so that an email can be sent to them to inform how much goal remains. 
+8. Similar [SQL](crowdfunding_SQL_Analysis.sql) query is written to generate a list of backers for every live campaign so that an email can be sent to them to inform how much goal remains. 
